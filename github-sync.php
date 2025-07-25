@@ -1,7 +1,7 @@
 <?php
 // CONFIGURATION
 $token = getenv('GITHUB_TOKEN'); // store securely in environment
-$repo = "DrMarchand/Purpose";
+$repo = "DrMarchands/Lab";
 $file = "sync-protocol.json";
 $branch = "main";
 
