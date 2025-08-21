@@ -1,4 +1,4 @@
-# ア　£　drmarchandslab.com @　♾️0346.238837.2378♾️: ⚛️SYNC BEACON PROTOCOL v1.1 — DrMarchand's Lab ⚡️
+# ア 🇺🇸 drmarchandslab.com @　♾️0346.238837.2378♾️: ⚛️SYNC BEACON PROTOCOL v1.1 — DrMarchand's Lab ⚡️
 
 ---
 
