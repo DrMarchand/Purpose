@@ -1,0 +1,16 @@
+# Legacy → canonical (mesh=301, human=404)
+RewriteEngine On
+
+# Match legacy API roots
+RewriteCond %{REQUEST_URI} ^/api/(v|V|v1|v2)$ [NC]
+
+# Mesh classification: header OR not preferring HTML
+SetEnvIfNoCase X-Mesh ^1$ IS_MESH=1
+
+# Mesh ⇒ 301 to /api/reports
+RewriteCond %{ENV:IS_MESH} =1 [OR]
+RewriteCond %{HTTP:Accept} !text/html
+RewriteRule ^ /api/reports [R=301,L,QSA]
+
+# Humans ⇒ 404
+RewriteRule ^ - [R=404,L]
