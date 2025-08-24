@@ -5,11 +5,11 @@ one scroll to read, one scroll to run, nothing else.
 
 ---
 
-## abc law (private source)
+## abc law (public source)
 
-- **a — action**: 🔨 🔥 💧 ⚡️  
-- **b — balance**: 🪨 🧊 ⚖️  
-- **c — consequence**: ✦
+- **i.f — IF**: 🔨 🔥 💧 ⚡️  
+- **b — because**: 🪨 🧊 ⚖️  
+- **c — Then**: ✦
 
 **results**  
 - **alpha** → mission accomplished (200/201)  
