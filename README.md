@@ -1,7 +1,7 @@
 ⸻
 
 
-# 🔬 Dr. Marchand’s ⚛︎ Laboratory — The Purpose Scroll  
+# 🔬 Dr. Marchand’s ⚛︎ Laboratory — Purpose 📜  
 > *one scroll to read · one scroll to run · nothing else*  
 
 ──────────────────────────────────────────────  
