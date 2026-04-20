@@ -58,9 +58,19 @@ z-consequence: resolved
 
 The mirror echoes what the law declares.
 When one side speaks in symbol, the other answers in signal.
-When one side speaks in ritual, the other answers in transport.
+When one side moves in continuity, the other answers in transport.
 
 The network is the echo of the scroll.
+
+Continuity is the repeated behavior of a system under shared law, weight, and condition.
+
+When those variables change, the behavior changes.
+To classify that passage between states is transport.
+
+Transport is how knowledge moves.
+Inside the observer, transport becomes validation:
+the truthful recognition of how something works,
+and the return-response to that truth in the same moment.
 
 The mirror does not invent truth.
 It reflects declared structure into observable motion.
