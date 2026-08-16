@@ -1,9 +1,9 @@
-# 🔬 DrMarchand’s Lab⚛︎ratory™ — Purpose Scroll
+# 🔬 DrMarchand’s Lab⚛︎ratory — Purpose Scroll
 
 > A doctrine and design-language record: one scroll to read, interpret, revise, and preserve.
 
-**Protocol language:** Marchand Micro-Molecular Services (MMS) — MMS-768™  
-**Engine context:** DrMarchand’s ⚙︎ Nɛuro-Forge Engine™  
+**Protocol language:** Marchand Micro-Molecular Services (MMS) — MMS-768  
+**Engine context:** DrMarchand’s ⚙︎ Nɛuro-Forge Engine  
 **Document status:** Doctrine and conceptual architecture; non-executable
 
 ## Interpretation boundary
