@@ -1,7 +1,7 @@
 # Authorship, Copyright, Publication, and Marks
 
 Effective: 2026-08-16  
-Status: Current repository rights baseline
+Status: Proposed repository rights record — draft; not controlling until authorized-human approval and merge
 
 ## Default rule
 
@@ -10,6 +10,7 @@ Status: Current repository rights baseline
 - Repository location, branch or DBA association, operating responsibility, invoice language, publisher credit, and Git history do not by themselves transfer copyright.
 - A different copyright owner requires a work-specific written instrument or other legally sufficient ownership record linked from the artifact or rights registry.
 - Third-party code, documentation, fonts, media, and other assets retain their original notices, licenses, and ownership.
+- This proposed record does not revoke, replace, or narrow an existing repository license, a prior public grant, or a third-party notice. License changes require a separate, work-specific review.
 
 ## Publication record
 
@@ -19,4 +20,4 @@ A work attributed to Design Orchard LLC as publisher must identify the work, aut
 
 Trademark status is separate from copyright. `TM` or `SM` indicates a claim, not a registration. The registered symbol may be used only when a current registration record supports the exact mark and applicable goods or services. Candidate, crowded, historical, and internal names must not be represented as registered or cleared without mark-specific evidence.
 
-This file is a repository governance record, not a substitute for legal advice.
+This file is a proposed repository governance record, not a substitute for legal advice.
