@@ -2,8 +2,8 @@
 
 > A doctrine and design-language record: one scroll to read, interpret, revise, and preserve.
 
-**Protocol language:** Marchand Micro-Molecular Services (MMS) — MMS-768  
-**Engine context:** DrMarchand’s ⚙︎ Nɛuro-Forge Engine  
+**Protocol language:** Marchand Micro-Molecular Services (MMS) — private profile identifiers are intentionally omitted from public source  
+**Engine context:** internal Laboratory engine reference; no public mark status is asserted here  
 **Document status:** Doctrine and conceptual architecture; non-executable
 
 ## Interpretation boundary
@@ -56,7 +56,7 @@ y-reason: because
 z-consequence: resolved
 ```
 
-The mirror reflects declared structure into an observable representation. It does not invent truth; 🗺️ DrMarchand’s ⚛︎ Atlas resolves registered identities, relationships, and truth states.
+The mirror reflects declared structure into an observable representation. It does not invent truth; the internal mapping layer resolves registered identities, relationships, and truth states.
 
 ## Conceptual cycle
 
