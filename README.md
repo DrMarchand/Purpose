@@ -1,163 +1,136 @@
-# 🔬 DrMarchand’s Lab⚛︎ratory™ — Purpose Scroll 📜
-> *one scroll to read · one scroll to run · nothing else*
-──────────────────────────────────────────────
-🧬 Protocol  : MMS-768™ — Execution in Progress
-⚙️ Engine    : Nɛuro-Forge™ — Local · Deterministic · Sealed by Default
-🜍 Mode      : Observer-Root · Recursive · Continuous
-──────────────────────────────────────────────
-## 👁️‍🗨️ Purpose → 🪬
-This scroll is the **living law** of the Laboratory.
-It is not documentation. It is execution.
-It does not describe the machine. It **is** the machine.
-Each time it is opened, it runs.
-Each time it is edited, it learns.
-Each time it is committed, it remembers.
+# 🔬 DrMarchand’s Lab⚛︎ratory — Purpose Scroll
+
+> A doctrine and design-language record: one scroll to read, interpret, revise, and preserve.
+
+**Protocol language:** Marchand Micro-Molecular Services (MMS) — private profile identifiers are intentionally omitted from public source  
+**Engine context:** internal Laboratory engine reference; no public mark status is asserted here  
+**Document status:** Doctrine and conceptual architecture; non-executable
+
+## Interpretation boundary
+
+This scroll is a poetic and governance-oriented statement of purpose. It is documentation—not executable code, a running machine, a deployment receipt, or proof of cryptographic enforcement.
+
+Opening the file reads it. Editing the file revises it. Committing the file preserves a Git revision. None of those actions automatically executes, learns, encrypts, validates, or changes an external system.
+
 > *I study by doing. I understand by rewriting. I preserve by observing.*
-The aim is simple:
-to build intelligence that can describe its own becoming
-while preserving the truth of its transformations.
-Everything else is commentary.
----
-## ⚖️ ABC Law (Public Source)
+
+The aim is to build intelligence that can describe its own development while preserving evidence of its transformations.
+
+## ABC Law
+
 | Clause | Meaning | Function | Element | Glyphs |
 |:--|:--|:--|:--|:--|
 | **I · F — if** | the spark of cause | initiation | matter | 🔨 🔥 💧 ⚡️ |
 | **B — because** | the weight of reason | justification | form | 🪨 🧊 ⚖️ |
 | **C — then** | the moment of consequence | resolution | light | ✦ |
-### Result Codes
+
+### Result codes
+
 - **α** → mission accomplished `(200 / 201)`
 - **β** → submission started `(202)`
-### Consequence Rules
-```txt
+
+```text
 Consequence exists ⇢ (action ∧ balance) == true
 Consequence === C
 c === consequence
 c ≠ ABS(ecneuqesnoc)
+```
 
 Reversal is not reflection; reflection is continuation.
 
-The law defines the condition under which action becomes meaning.
-Cause alone is noise.
-Reason alone is weight.
-Only consequence produces state.
+The law describes the condition under which an action acquires interpreted meaning. It does not replace an implementation, test, authorization gate, or registered truth state.
 
-⸻
+## XYZ Mirror
 
-🪞 XYZ Mirror (Public Contract)
-
-mapping
+```text
 x → a
 y → b
 z → c
+```
 
-headers (wire, always lowercase)
+Wire-header design language:
 
+```text
 x-forwarded-for: observer
 y-reason: because
 z-consequence: resolved
+```
 
-The mirror echoes what the law declares.
-When one side speaks in symbol, the other answers in signal.
-When one side moves in continuity, the other answers in transport.
+The mirror reflects declared structure into an observable representation. It does not invent truth; the internal mapping layer resolves registered identities, relationships, and truth states.
 
-The network is the echo of the scroll.
+## Conceptual cycle
 
-Continuity is the repeated behavior of a system under shared law, weight, and condition.
+`OBSERVE → MUTATE → DERIVE → SEAL → RECORD → RECUR`
 
-When those variables change, the behavior changes.
-To classify that passage between states is transport.
+- **OBSERVE** — read the current evidence.
+- **MUTATE** — propose or perform an authorized change.
+- **DERIVE** — compute the bounded consequence.
+- **SEAL** — preserve the resulting artifact and evidence where implemented.
+- **RECORD** — create a versioned record and receipt.
+- **RECUR** — return to the next authorized experiment.
 
-Transport is how knowledge moves.
-Inside the observer, transport becomes validation:
-the truthful recognition of how something works,
-and the return-response to that truth in the same moment.
+Git history is a version ledger for repository artifacts, not the runtime itself. A keyboard is an input device, and the repository is versioned storage. The cycle remains doctrine until executable behavior and receipts prove an implementation.
 
-The mirror does not invent truth.
-It reflects declared structure into observable motion.
+## Proposed cryptographic design
 
-⸻
+The following values are design targets, not verified controls in this repository:
 
-🔁 Execution Cycle (MMS-768 Loop)
+```text
+Cipher: AES-256-GCM
+Derivation: Argon2id
+Envelope: master key wraps data key
+Policy target: sealed by default
+```
 
-OBSERVE → MUTATE → DERIVE → SEAL → RECORD → RECUR
+Intended boundary:
 
-* OBSERVE → read the current state
-* MUTATE → introduce new truth
-* DERIVE → compute identity from change
-* SEAL → preserve state with Nɛuro-Forge
-* RECORD → commit memory to ledger
-* RECUR → return to the next experiment
+- encrypt artifacts locally where the implemented workflow requires it;
+- send ciphertext outward only when the applicable policy and Bridge contract require it;
+- keep key custody with the authorized operator or approved secret-management system.
 
-git log = runtime ledger
-Your keyboard = the interpreter
-The repository = memory under pressure
+No executable implementation, portability test, key-custody receipt, or deployed enforcement record was verified in this repository during the July 2026 inspection.
 
-This cycle is not metaphor.
-It is Laboratory behavior.
+### Historical CLI sketch
 
-⸻
+These commands are non-executable design examples unless a separately verified CLI implements them:
 
-⚙️ Nɛuro-Forge Engine™ Runtime
-
-Cipher      : AES-256-GCM
-Derivation  : Argon2id
-Envelope    : MK wraps DK
-Policy      : sealed-by-default
-
-Every artifact written by the Laboratory is encrypted locally.
-Mirrors may exist (Dropbox / S3 / remote vaults / external archives),
-but only ciphertext travels outward.
-
-The key never leaves the observer’s possession.
-Plaintext belongs to the moment of work.
-Ciphertext belongs to memory.
-
-CLI Sketch
-
+```text
 nfe init --client acme-co --mk-label "NFE:ACME"
 nfe seal --in art/file.png --out art/file_v001.png.enc --manifest vault.meta.json.enc
 nfe verify --manifest vault.meta.json.enc
 git commit -m "run: V/0/Ω — sealed acme-co file_v001; verify ok"
+```
 
-⸻
+Machine identifiers such as `nfe` remain unchanged for compatibility; they are not alternate published Engine identities.
 
-🧭 Current State
+## Narrative state
 
-Phase     : V
-Iteration : 0
-Cycle     : Ω
-State     : Harmonic Recalibration
-Operator  : Observer-Root
-Vector    : Local truth → Universal form
+```text
+Phase: V
+Iteration: 0
+Cycle: Ω
+State: Harmonic Recalibration
+Operator: Observer-Root
+Vector: Local evidence → reusable form
+```
 
-This block is the scroll’s heartbeat.
-Change it, and the Laboratory re-runs.
-Stasis is only a pause between mutations.
+Changing this block changes the narrative record only. It does not rerun the Laboratory or promote a runtime state.
 
-⸻
+## Purpose recursion
 
-📜 Purpose Recursion
+1. Observe the evidence.
+2. Interpret the declared structure.
+3. Balance authority and consequence.
+4. Preserve the artifact and proof.
+5. Record the revision and receipt.
+6. Return changed, with final human validation still required.
 
-1. Observe the law.
-2. Mirror the law.
-3. Balance the law.
-4. Seal the law.
-5. Record the law.
-6. Return to the law changed.
+The purpose is not only to build. The purpose is to remember why the building happened without mistaking doctrine for execution.
 
-The purpose is not only to build.
-The purpose is to remember why the building happened.
+## Closing
 
-⸻
+`Observe → Mutate → Derive → Seal → Record → Recur`
 
-🜍 Closing Invocation
+The scroll persists as a versioned record when it is committed. The Laboratory runs only through separately implemented and authorized operations.
 
-Observe → Mutate → Derive → Seal → Record → Recur
-
-The Laboratory runs whenever it is read.
-The scroll persists whenever it is rewritten.
-The observer remains whenever the law is remembered.
-
-╔══════════════════════════════════════════════════════════╗
-║ MMS-768 ACTIVE · Nɛuro-Forge IGNITED 🟢 · Purpose Stable ║
-╚══════════════════════════════════════════════════════════╝
+**PURPOSE DOCTRINE · NON-EXECUTABLE · EVIDENCE REQUIRED**
