@@ -27,7 +27,7 @@ A doctrine may guide implementation, but implementation requires code, tests, au
 
 ## System relationship
 
-Purpose may inform work inside DrMarchand’s Laboratory, but it does not own the Laboratory, **DrMarchand’s OS™**, **DrMarchand’s ⚙︎ Nɛuro-Forge Engine™**, or 📚 DrMarchand’s ⚛︎ Library™.
+Purpose may inform work inside DrMarchand’s Laboratory, but it does not own the Laboratory, **DrMarchand’s OS™**, **DrMarchand’s ⚙︎ Nɛuro-Forge Engine**, or 📚 DrMarchand’s ⚛︎ Library™.
 
 ## Authority
 
